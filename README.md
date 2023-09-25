@@ -89,7 +89,7 @@ nulink --help
 
 export NULINK_KEYSTORE_PASSWORD=xxxxxxxxxxxx
 
-به جای ایکس ها اون پسورد که بالاتر وارد کردید
+به جای ایکس ها اون پسورد بالا
 export NULINK_OPERATOR_ETH_PASSWORD=xxxxxxxxxx
 
 در اینجا هم به جای ایکس ها اون پسوردی که بالاتر دادید رو دوباره وارد کنید
