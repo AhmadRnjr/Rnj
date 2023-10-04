@@ -28,7 +28,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 sudo docker run hello-world
 
-وقتی پیام hello world  رو دریافت میکنید به سراغ نصب پکیج نود nulink می رید 
+بعد از پیام hello world به سراغ نصب پکیج نود nulink می رید 
 
 sudo apt update && sudo apt upgrade -y
 
@@ -44,7 +44,7 @@ cd geth-linux-amd64-1.10.23-d901d853/
 ./geth account new --keystore ./keystore
 
 
-در این مرحله یک پسورد وارد میکنید و دوباره اون رو تایید می‌کنید که باید در مراحل بعد ازش استفاده کنید
+ پسورد وارد کنید و دوباره اون رو تایید می‌کنید که باید در مراحل بعد ازش استفاده کنید
 
 بعد از وارد کردن پسورد یک سری اطلاعات میده بهتون که باید اون های توی یه notepad ذخیره کنید که باید در ادامه ازش استفاده کنید
 
