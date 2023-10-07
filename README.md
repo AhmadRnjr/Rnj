@@ -56,7 +56,7 @@ docker pull nulink/nulink:latest
 
 cd /root
 mkdir nulink
-پیام داد که این نام وجود داره ایراد نداره به مرحله بعد برید
+پیام داد به مرحله بعد برید
 
 cp xxxxxxxxxxxxxxxxxxxxx /root/nulink
 
