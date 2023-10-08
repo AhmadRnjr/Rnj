@@ -85,7 +85,7 @@ python -c "import nulink"
 
 nulink --help
 
-export NULINK_KEYSTORE_PASSWORD=xxxxxxxxxxxx
+export NULINK_KEYSTORE_PASSWORD=xxxxxxxxxxx
 
 به جای ایکس ها اون پسورد بالا
 export NULINK_OPERATOR_ETH_PASSWORD=xxxxxxxxxx
