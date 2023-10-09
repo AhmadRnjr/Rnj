@@ -58,7 +58,7 @@ cd /root
 mkdir nulink
 پیام داد به مرحله بعد برید
 
-cp xxxxxxxxxxxxxxxxxxxxx /root/nulink
+cp xxxxxxxxxxxxxxxxxxxx /root/nulink
 
 به جای x ها از آدرس بالاتر
 
