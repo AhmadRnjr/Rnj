@@ -1,6 +1,6 @@
 # AhmadRnj
 my rep 2
-for test1
+for test
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
