@@ -25,9 +25,7 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 sudo docker run hello-world
-
 بعد از پیام hello world به سراغ نصب پکیج نود nulink می رید 
-
 sudo apt update && sudo apt upgrade -y
 
 apt install python3-pip -y
