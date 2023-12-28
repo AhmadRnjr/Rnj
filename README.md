@@ -1,6 +1,6 @@
 ahmad
 my rep 2
-for test
+
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 sudo apt-get update
